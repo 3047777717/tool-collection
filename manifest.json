@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "tools": {
+    "OCR文字识别": {
+      "version": "1.0.0",
+      "entry": "main.pyc",
+      "sha256": "aba59a2c25f9f738a6f8a90dca8308aa22262ab2d3dfecaef89d316b799406d5",
+      "url": "https://raw.githubusercontent.com/3047777717/tool-collection/main/tools/OCR文字识别.zip"
+    },
+    "PDF转换工具": {
+      "version": "1.0.0",
+      "entry": "main.pyc",
+      "sha256": "39c979c134dfd57523df2fb3a91ff94f646505a302d5adbe1f52c762a22b892a",
+      "url": "https://raw.githubusercontent.com/3047777717/tool-collection/main/tools/PDF转换工具.zip"
+    },
+    "字幕生成": {
+      "version": "1.0.0",
+      "entry": "main.pyc",
+      "sha256": "355c7019409bd0e53ee53b2cda1b41d1603bda6aaab3b0c5ebc56e0baacbf648",
+      "url": "https://raw.githubusercontent.com/3047777717/tool-collection/main/tools/字幕生成.zip"
+    },
+    "随机图片获取": {
+      "version": "1.0.0",
+      "entry": "main.pyc",
+      "sha256": "c9b526d396b2f5df5c04896567cb50f2eb51d7afd5ec04a286b104220a6ac4af",
+      "url": "https://raw.githubusercontent.com/3047777717/tool-collection/main/tools/随机图片获取.zip"
+    }
+  }
+}
